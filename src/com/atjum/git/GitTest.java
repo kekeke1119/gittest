@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hot-fix 在修改");
         System.out.println("合并冲突测试 结束");
         System.out.println("测试远程库");
-        System.out.println("pull test")
+        System.out.println("pull test");
     }
 }
