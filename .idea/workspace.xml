@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a329a65-3ad4-4cba-9e58-a75ef5402d1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gitdemo.java" afterDir="false" />
+    <list default="true" id="6a329a65-3ad4-4cba-9e58-a75ef5402d1b" name="Changes" comment="third commit">
       <change beforePath="$PROJECT_DIR$/src/com/atjum/git/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atjum/git/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IDEA/idea2023/workspace/gittest&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GitTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IDEA/idea2023/workspace/gittest",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA\idea2023\workspace\gittest\src" />
       <recent name="D:\IDEA\idea2023\workspace\gittest\.idea" />
+      <recent name="D:\IDEA\idea2023\workspace\gittest\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -84,6 +84,48 @@
       <option name="presentableId" value="Default" />
       <updated>1717666343176</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1717741063590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717741063590</updated>
+    </task>
+    <task id="LOCAL-00002" summary="secend commit">
+      <option name="closed" value="true" />
+      <created>1717741133271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717741133271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <option name="closed" value="true" />
+      <created>1717741228017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717741228017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="secend commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
